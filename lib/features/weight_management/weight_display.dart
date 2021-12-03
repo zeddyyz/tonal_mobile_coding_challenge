@@ -12,6 +12,7 @@ class WeightDisplayScreen extends StatefulWidget {
 class _WeightDisplayScreenState extends State<WeightDisplayScreen> {
   String _label = "Upper body", _labelInput = "";
   int _weight = 45, _weightInput = 0;
+
   final _labelController = TextEditingController();
   final _weightController = TextEditingController();
 

@@ -37,7 +37,7 @@ class MetricsWidget extends StatelessWidget {
           Positioned(
             bottom: -24,
             child: SvgPicture.asset(
-              'lib/utilities/graph.svg',
+              'lib/utilities/assets/graph.svg',
               fit: BoxFit.cover,
               alignment: Alignment.bottomCenter,
               width: 220,
