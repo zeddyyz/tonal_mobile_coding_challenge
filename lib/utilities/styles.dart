@@ -36,3 +36,5 @@ const unitTextStyle = TextStyle(
 
 // Custom values
 var kLightBackground = Colors.grey.shade50;
+
+const double kSpacingSizedBox = 20;
